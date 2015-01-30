@@ -82,7 +82,7 @@ public class DeviceService {
 	
 	
 	/* To test JSON as output when two path parameter are passed.   Updating Device in devaicedetails table.
-	 * url : http://localhost:8080/WebServiceRest/rest/hello/id/111/new/999
+	 * url : http://localhost:8080/WebServiceRest/rest/hello/id/111/new/59094
 	 */
 	
 	@PUT
